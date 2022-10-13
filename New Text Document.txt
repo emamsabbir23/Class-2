@@ -9,7 +9,8 @@
 	a) Add yourself--hints:  # for h6 ### for h3 --double enter for next line
 	b) Add html file hints: ~~~ html ~~~
 	b) Add image from link:  animated coding gif 
-		i) Select image 
+	c) note wright in capital GIF
+i) Select image 
 		ii) Right click on image and open in new window
 		iii) copy image link
 	c) Add img code (<img align="right" width="400" src="insert previous copied link")
